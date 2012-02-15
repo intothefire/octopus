@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "octopus/version"
 
 Gem::Specification.new do |s|
-  s.name        = "ar-octopus"
+  s.name        = "intothefire-octopus"
   s.version     = Octopus::VERSION
   s.authors     = ["Thiago Pradi", "Mike Perham", "Gabriel Sobrinho"]
   s.email       = ["tchandy@gmail.com", "mperham@gmail.com", "gabriel.sobrinho@gmail.com"]
